@@ -1,0 +1,20 @@
+<resources>
+    //detail
+    <string name="app_name">Legend 2 Stroke</string>
+    <string name="bike_name">Nama Motor</string>
+    <string name="manufacture">Merk : </string>
+    <string name="jenis">Jenis motor</string>
+    <string name="type">Tipe Motor:  </string>
+    <string name="detail">Detail : </string>
+    <string name="price">Rp.00.000.000.00</string>
+    <string name="year">Tahun Pembuatan : </string>
+    <string name="cc">Kubikasi : </string>
+
+    //list
+    <string name="Nama">Gabriel Naka Sorateleng</string>
+    <string name="email">nakateleng@gmail.com</string>
+    <string name="ket">Nama : </string>
+    <string name="almemail">Email : </string>
+    <string name="kirimemail">Kirim Email</string>
+
+</resources>
